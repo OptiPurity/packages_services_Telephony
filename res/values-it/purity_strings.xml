@@ -26,4 +26,8 @@
     <string name="preference_category_interface">Interfaccia</string>
     <string name="non_intrusive_incall_title">Non intrusiva</string>
     <string name="non_intrusive_incall_summary">Usa un\'interfaccia non intrusiva per le chiamate in arrivo</string>
+    <!-- Data Roaming -->
+    <string name="national_roaming">Servizi di roaming nazionale</string>
+    <string name="national_roaming_enable">Connetti i servizi dati quando in roaming nazionale.</string>
+    <string name="national_roaming_disable">Non connettere i servizi dati quando in roaming nazionale.</string>
 </resources>
