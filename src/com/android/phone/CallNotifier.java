@@ -937,6 +937,13 @@ public class CallNotifier extends Handler
             Log.w(LOG_TAG, "onDisconnect: null connection");
         }
 
+        if (c != null) {
+            boolean vibHangup = PhoneUtils.PhoneSettings.vibHangup(mApplication);
+            if (vibHangup && c.getDurationMillis() > 0) {
+                vibrate(50, 100, 50);
+            }
+         }
+
         int autoretrySetting = 0;
         if ((c != null) && (c.getCall().getPhone().getPhoneType() == PhoneConstants.PHONE_TYPE_CDMA)) {
             autoretrySetting = android.provider.Settings.Global.getInt(mApplication.
