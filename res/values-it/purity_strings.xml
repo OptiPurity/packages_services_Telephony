@@ -23,9 +23,8 @@
     <string name="vibrate_45">Vibra ogni minuto</string>
     <string name="vibrate_45_sum">Vibra al 45esimo secondo di ogni minuto durante le chiamate in uscita</string>
     <!-- Non intrusive incall ui -->
-    <string name="preference_category_interface">Interfaccia</string>
-    <string name="non_intrusive_incall_title">Non intrusiva</string>
-    <string name="non_intrusive_incall_summary">Usa un\'interfaccia non intrusiva per le chiamate in arrivo</string>
+    <string name="bg_incall">Chiamate in arrivo in background</string>
+    <string name="bg_incall_summary">Quando lo schermo è acceso, mostra le chiamate in arrivo in secondo piano mostrando solo una notifica e riproducendo la suoneria.</string>
     <!-- Data Roaming -->
     <string name="national_roaming">Servizi di roaming nazionale</string>
     <string name="national_roaming_enable">Connetti i servizi dati quando in roaming nazionale.</string>
