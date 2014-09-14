@@ -24,9 +24,10 @@
     <string name="vibrate_45">Vibrate every minute</string>
     <string name="vibrate_45_sum">Vibrates at the 45 second mark of every minute during outgoing calls</string>
 
-    <!-- Call UI in background -->
-    <string name="bg_incall">Incoming call in background</string>
-    <string name="bg_incall_summary">Keep incoming call UI in background when screen is on, show notification and play ringtone only</string>
+    <!-- Non intrusive incall ui -->
+    <string name="preference_category_interface">Interface</string>
+    <string name="non_intrusive_incall_title">Non intrusive</string>
+    <string name="non_intrusive_incall_summary">Use non intrusive dialog for incoming calls</string>
 
     <!-- Permission for notification-bar network toggle -->
     <string name="perm_change_mobile_network">change network mode (2G/3G)</string>

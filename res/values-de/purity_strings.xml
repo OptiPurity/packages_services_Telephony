@@ -37,6 +37,4 @@
   <string name="national_roaming">National Daten roaming</string>
   <string name="national_roaming_enable">Verbinde den Datendienst, wenn nationales roaming verfügbar ist.</string>
   <string name="national_roaming_disable">Nicht mit Daten Dienst verbinden, wenn nationales roaming verfügbar ist.</string>
-  <string name="bg_incall">Eingehender Anruf im Hintergrund</string>
-  <string name="bg_incall_summary">Behält Anruf-Dialog im Hintergrund wenn der Bildschirm an ist, zeige nur eine Benachrichtigung und spielt den Klingelton ab.</string>
 </resources>
