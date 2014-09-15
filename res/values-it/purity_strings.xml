@@ -22,10 +22,12 @@
     <string name="vibrate_hangup">Vibra al termine chiamata</string>
     <string name="vibrate_45">Vibra ogni minuto</string>
     <string name="vibrate_45_sum">Vibra al 45esimo secondo di ogni minuto durante le chiamate in uscita</string>
+
     <!-- Non intrusive incall ui -->
     <string name="preference_category_interface">Interfaccia</string>
     <string name="non_intrusive_incall_title">Non intrusiva</string>
     <string name="non_intrusive_incall_summary">Usa un\'interfaccia non intrusiva per le chiamate in arrivo</string>
+
     <!-- Data Roaming -->
     <string name="national_roaming">Servizi di roaming nazionale</string>
     <string name="national_roaming_enable">Connetti i servizi dati quando in roaming nazionale.</string>
@@ -35,6 +37,7 @@
     <string name="enable_forward_lookup_summary">Mostra luoghi nelle vicinanze durante la ricerca nel tastierino</string>
     <string name="enable_people_lookup_title">Ricerca persone</string>
     <string name="enable_people_lookup_summary">Mostra risultati online durante la ricerca nel tastierino</string>
+
     <!-- Reverse lookup Settings -->
     <string name="enable_reverse_lookup_title">Ricerca inversa</string>
     <string name="enable_reverse_lookup_summary">Cerca informazioni sulla persona o luogo per i numeri sconosciuti delle chiamate in ingresso</string>
@@ -42,4 +45,21 @@
     <string name="choose_forward_lookup_provider_title">Provider di ricerca diretta</string>
     <string name="choose_people_lookup_provider_title">Provider di ricerca persone</string>
     <string name="choose_reverse_lookup_provider_title">Provider di ricerca inversa</string>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Rotazione telefono</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title">Ruota il telefono per\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary">Ruotando il telefono con lo schermo verso il basso farai<xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Values for flip action array entries -->
+    <string name="entry_do_nothing">Svolgere nessuna azione</string>
+    <string name="entry_mute_ringer">Silenziare la suoneria</string>
+    <string name="entry_dismiss_call">Rifiutare le chiamate</string>
+    <string name="summary_do_nothing">svolgere nessuna azione</string>
+    <string name="summary_mute_ringer">silenziare la suoneria</string>
+    <string name="summary_dismiss_call">rifiutare le chiamate</string>
 </resources>
